@@ -1,5 +1,4 @@
 version: STSv1
 mode: testing
-mx: gregnottage-co-uk.mail.protection.outlook.com
 mx: gregnottage-co-uk.a-v1.mx.microsoft
 max_age: 86400
